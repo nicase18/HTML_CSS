@@ -1,0 +1,143 @@
+body {
+    font-family: Calibri;
+    line-height: 1.5;
+    font-size: 18px;
+    text-indent: 20px;
+    margin: 50px;
+    background: #d4d4d4 fixed;
+    background-image: url(../img/yCNNxWTFc_E.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card {
+    width: 400px;
+    margin: 30px auto;
+    padding: 20px;
+    
+    background-color: #fff;
+    box-shadow: 0 5px 10px #ccc;
+    border-radius: 10px;
+}
+
+.card-photo {
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+.title {
+    font-size: 20px;
+    text-align: center;
+    color: #1d2246;
+    text-transform: uppercase;
+    
+}
+.card-title {
+    font-size: 20px;
+    text-align: center;
+    color: #1d2246;
+    
+}
+
+.card-text {
+    font-size: 14px;
+}
+
+.card-subtitle{
+    font-size: 18px;
+    color: #2d3cac;
+    
+    
+}
+
+.card-list {
+    padding-left: 0;
+    list-style-position: inside;
+    font-size: 14px;
+    list-style-type: square;
+    
+}
+
+.tel-email {
+    font-size: 14px;
+    font-weight: 900;
+}
+
+.tel-email span {
+    font-size: 14px;
+    font-weight: 900;
+}
+
+.card-photo-inst {
+    display: block;
+    width: 25px;
+    height: 25px;
+    margin: 0 auto;
+}
+
+.table {
+    width: 100%;
+    border: 1px dashed #000000;
+    border-collapse: collapse;
+    margin: 10px 10px 10px 10px;
+    
+}
+
+.table th {
+    padding: 5px;
+    text-align: left;
+    color: brown;
+}
+
+.table td {
+    padding: 5px 10px;
+    border: 1px dashed #000000;
+}
+
+.table tfoot td {
+    text-align: right;
+}
+
+.content {
+    margin: 50px auto;
+    width: 400px;
+}
+
+.content-red {
+    display: inline-block;
+    color: indianred;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+/* Post */
+
+.post {
+    margin: 25px auto 30px;
+    width: auto;
+    border: 2px solid #ddd;
+    padding: 10px 15px 10px 15px;
+    background-image: linear-gradient(-45deg, #2e7948, #080b2f);
+    background-size: cover;
+    color: floralwhite;
+    border-radius: 25px;
+}
+
+.post-text {
+    color:#ffffff;
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+/* gradient */
+
+.gradient {
+    width: 600px;
+    height: 300px;
+    background-image: linear-gradient(-45deg, #fff, #333);
+
+}
